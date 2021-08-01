@@ -1,6 +1,8 @@
 # Dbank
 this project is forked from: https://github.com/superXdev/dbank.git
 
+![dbank](https://github.com/superXdev/dbank/blob/starter_kit/dbank.png?raw=true)
+
 a simple Decentralized Application of Bank, where user can simply put their money (ETH) to this decentralized bank and take some interest in token (DBC) for 10% per years.
 
 ## Installation
