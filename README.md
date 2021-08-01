@@ -34,7 +34,7 @@ npm install
 Migrate smart contract (dbank and token), dont forget to run ganache first `ganache-cli`
 
 ```Bash
-truffle migrate
+truffle migrate --reset
 ```
 
 Run reactjs local development server
