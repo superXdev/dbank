@@ -60,7 +60,9 @@ contract('dBank', ([deployer, user]) => {
       })
 
       it('deposit time should > 0', async () => {
-        expect(Number(await dbank.depositStart(user))).to.be.above(0)
+        expect(
+          Number(await dbank.depositStart(user))
+        ).to.be.above(0)
       })
 
       it('deposit status should eq true', async () => {
